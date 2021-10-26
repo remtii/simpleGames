@@ -1,0 +1,3 @@
+gtn.py | Guess The Number | 25/10/21
+cgtn.py | Computer Guess The Number | 25/10/21
+gtn.c | Guess The Number | 26/10/21
